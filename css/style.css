@@ -1,0 +1,9 @@
+button {
+    background-color: gold;
+    border-style: none;
+    padding: 25px 50px;
+    font-size: 25px;
+    cursor: pointer;
+    color: indigo;
+    border-radius: 50%;
+}
